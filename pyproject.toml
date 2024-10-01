@@ -5,6 +5,9 @@ build-backend = "hatchling.build"
 [project]
 name = "faster-whisper-tools"
 version = "0.1.0"
+dependencies = [
+  "faster-whisper"
+]
 authors = [
   { name = "Jackson Gordon" },
 ]
