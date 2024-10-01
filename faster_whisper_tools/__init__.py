@@ -3,3 +3,5 @@ faster-whisper-tools: A collection of utilities for transcribing audio files usi
 """
 
 from .transcribe_audio import transcribe_audio
+
+__all__ = ["transcribe_audio"]
