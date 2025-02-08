@@ -1,4 +1,5 @@
 av==12.3.0
+build==1.2.2
 certifi==2024.8.30
 charset-normalizer==3.3.2
 colorama==0.4.6
@@ -16,6 +17,7 @@ numpy==2.1.1
 onnxruntime==1.19.2
 packaging==24.1
 protobuf==5.28.2
+pyproject_hooks==1.2.0
 pyreadline3==3.5.4
 PyYAML==6.0.2
 requests==2.32.3

@@ -1,0 +1,1 @@
+py .\faster_whisper_tools\transcribe_audio.py --filename ".\audio\1.mp3"

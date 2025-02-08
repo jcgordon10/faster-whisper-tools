@@ -19,6 +19,7 @@ classifiers = [
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
 ]
+
 [project.urls]
 Homepage = "https://github.com/jcgordon10/faster-whisper-tools"
 Issues = "https://github.com/jcgordon10/faster-whisper-tools/issues"
